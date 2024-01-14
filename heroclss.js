@@ -1,5 +1,5 @@
 //Profile classes to put each characteristic on each character;
-//Made by Luiz Felipe Kauê da Silva;
+//Made by Luiz Felipe K. da Silva;
 //01/14/2024;
 
 
